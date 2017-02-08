@@ -18,8 +18,8 @@ email: azusally@gmail.com
 description: I'm a digital nomad translator and tutor for Japanese to English ☕️
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: azusamakita
+github_username:  Azusally
 
 # Build settings
 markdown: kramdown
